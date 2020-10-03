@@ -47,10 +47,12 @@
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/firefox/firefox-plain.svg" alt="firefox" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/safari/safari-original.svg" alt="safari" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
 - __OS:__
