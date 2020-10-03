@@ -8,11 +8,6 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Akwaaa?color=blueviolet&label=Akwaaa%27s%20GitHub%20Stars&logo=github&style=flat-square">
 </p>
 <p align="center">
-<img alt="Discord" src="https://img.shields.io/discord/558028048063135801?color=7289DA&label=Discord%20Server&logo=discord&style=for-the-badge">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/themioytb?color=blue&logo=twitter&style=for-the-badge">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/THEMIOENLIVE?color=blueviolet&label=THEMIOENLIVE&logo=twitch&style=for-the-badge">
-</p>
-<p align="center">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fnobuyoshi.red">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Forum%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fforum.nobuyoshi.red">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
