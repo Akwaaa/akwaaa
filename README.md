@@ -13,7 +13,7 @@
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
 </p>
 
-<h2 align="center">Just a new Dev</h2>
+<h2 align="center">"just vibin through my own life"</h2>
 
 <h3 align="center">[👱🏼‍♂️] About me </h3>
 
