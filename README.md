@@ -73,5 +73,5 @@
 
 <p align="center">Thanks to THEMIODEV (mah boi <3) for letting me use his ✨super special secret✨ repository/README as a base, love you, no homo tho</p>
 
-<a href="https://github.com/THEMIODEV"><img href="https://github.com/THEMIODEV" src="https://img.shields.io/badge/github-THEMIODEV-important"/></a>
+<p align="center"><a href="https://github.com/THEMIODEV"><img href="https://github.com/THEMIODEV" src="https://img.shields.io/badge/github-THEMIODEV-important"/></a></p>
 
