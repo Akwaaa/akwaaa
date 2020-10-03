@@ -4,8 +4,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Akwaaa&color=blueviolet&style=flat-square">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Followers&logo=Github&style=flat-square">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Stars&logo=github&style=flat-square">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Akwaaa?color=blueviolet&label=Akwaaa%27s%20GitHub%20Followers&logo=Github&style=flat-square">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Akwaaa?color=blueviolet&label=Akwaaa%27s%20GitHub%20Stars&logo=github&style=flat-square">
 </p>
 <p align="center">
 <img alt="Discord" src="https://img.shields.io/discord/558028048063135801?color=7289DA&label=Discord%20Server&logo=discord&style=for-the-badge">
