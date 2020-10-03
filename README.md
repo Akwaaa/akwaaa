@@ -18,13 +18,14 @@
 
 - 📫 How to reach me: **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
 - :fr: What language am I speaking: **French (as my mother tongue), and almost fluently English**
-- 🎂 How old I am: I'm **16 Years Old**
+- 🎂 How old am I?: I was born the **02/23/2004**, do the math 🤓 
 
 <h3 align="center">[📅] Projects</h3>
 
-- 🔭 I’m currently working on a **Discord Nitro Sniper** and **Nobuyoshi**
-- 🌱 I’m currently learning **NodeJS**
-- 💬 Ask me about **[Nobuyoshi Forum](https://nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)**
+- 🔭 I’m currently working on projects related to [Nobuyoshi](https://github.com/TeamNobuyoshi) and [StonksPanel](https://github.com/StonksPanel)
+- 🌱 I’m currently learning **NodeJS** and *expandiiing* my web-developing knowledge.
+- ✨ You can visit **[Nobuyoshi Forum](https://forum.nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)** here.
+- 🎏 Project ***#V4NTA*** is incoming... (Soon
 
 <h3 align="center">[📚] Tools, Languages and OS</h3>
 
