@@ -12,7 +12,7 @@
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
 </p>
 <p align="center">
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V32C5FU)
+<a href='https://ko-fi.com/V7V32C5FU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 <h2 align="center">"just vibin through my own life"</h2>
 
