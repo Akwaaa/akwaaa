@@ -11,7 +11,9 @@
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Forum%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fforum.nobuyoshi.red">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
 </p>
-
+<p align="center">
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V32C5FU)
+</p>
 <h2 align="center">"just vibin through my own life"</h2>
 
 <h3 align="center">[😎] About me </h3>
