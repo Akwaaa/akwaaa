@@ -45,10 +45,8 @@
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/firefox/firefox-plain.svg" alt="firefox" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/safari/safari-original.svg" alt="safari" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
@@ -62,6 +60,7 @@
 <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
 </p>
 
 <h3 align="center">[📈] GitHub Stats </h3>
