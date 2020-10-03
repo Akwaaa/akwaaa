@@ -29,7 +29,7 @@
 
 <h3 align="center">[📚] Tools, Languages and OS</h3>
 
-<h4 align="center">__Languages:__</h4>
+<h4 align="center">Languages:</h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -41,7 +41,7 @@
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<h4 align="center">__Tools:__</h4>
+<h4 align="center">Tools:</h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -55,7 +55,7 @@
 <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
-<h4 align="center">__OS:__</h4>
+<h4 align="center">OS:</h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
