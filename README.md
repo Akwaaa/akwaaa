@@ -16,16 +16,20 @@
 
 <h3 align="center">[😎] About me </h3>
 
-- 📫 How can you reach me? **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
-- :fr: What language am I speaking? **French (as my mother tongue), and almost fluently English**
-- 🎂 How old am I, huh? I was born the **02/23/2004**, do the math 🤓 
+<p align="center">
+📫 How can you reach me? **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
+:fr: What language am I speaking? **French (as my mother tongue), and almost fluently English**
+🎂 How old am I, huh? I was born the **02/23/2004**, do the math 🤓 
+</p>
 
 <h3 align="center">[📅] Projects</h3>
 
-- 🔭 I’m currently working on projects related to [Nobuyoshi](https://github.com/TeamNobuyoshi) and [StonksPanel](https://github.com/StonksPanel)
-- 🌱 I’m currently learning **NodeJS** and *expandiiing* my web-developing knowledge.
-- ✨ You can visit **[Nobuyoshi Forum](https://forum.nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)** here.
-- 🎏 Project ***#V4NTA*** is incoming... (Soon™)
+<p align="center">
+🔭 I’m currently working on projects related to [Nobuyoshi](https://github.com/TeamNobuyoshi) and [StonksPanel](https://github.com/StonksPanel)
+🌱 I’m currently learning **NodeJS** and *expandiiing* my web-developing knowledge.
+✨ You can visit **[Nobuyoshi Forum](https://forum.nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)** here.
+🎏 Project ***#V4NTA*** is incoming... (Soon™)
+</p>
 
 <h3 align="center">[📚] Tools, Languages and OS</h3>
 
