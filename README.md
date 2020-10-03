@@ -17,8 +17,8 @@
 <h3 align="center">[😎] About me </h3>
 
 - 📫 How to reach me: **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
-- <img src="https://images.emojiterra.com/openmoji/v12.2/512px/1f1eb-1f1f7.png" alt="html5" width="20" height="25"/>  What language am I speaking: **French (as mother language), English, German and Russian**
-- 1️⃣6️⃣ How old I am: I'm **16 Years Old**
+- :fr: What language am I speaking: **French (as my mother tongue), and almost fluently English**
+- 🎂 How old I am: I'm **16 Years Old**
 
 <h3 align="center">[📅] Projects</h3>
 
