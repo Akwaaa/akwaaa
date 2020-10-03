@@ -3,7 +3,7 @@
 <p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/2.gif" style="border-radius: 75%;"></a></p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=Akwaaa&color=blueviolet&style=flat-square">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Followers&logo=Github&style=flat-square">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/THEMIODEV?color=blueviolet&label=THEMIODEV%27s%20GitHub%20Stars&logo=github&style=flat-square">
 </p>
