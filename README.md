@@ -16,9 +16,9 @@
 
 <h3 align="center">[😎] About me </h3>
 
-- 📫 How to reach me: **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
-- :fr: What language am I speaking: **French (as my mother tongue), and almost fluently English**
-- 🎂 How old am I?: I was born the **02/23/2004**, do the math 🤓 
+- 📫 How can you reach me? **Discord at "[akwa#0001](https://discord.com/users/354236474050478080)"**
+- :fr: What language am I speaking? **French (as my mother tongue), and almost fluently English**
+- 🎂 How old am I, huh? I was born the **02/23/2004**, do the math 🤓 
 
 <h3 align="center">[📅] Projects</h3>
 
