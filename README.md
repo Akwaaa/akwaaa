@@ -8,7 +8,6 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Akwaaa?color=blueviolet&label=Akwaaa%27s%20GitHub%20Stars&logo=github&style=flat-square">
 </p>
 <p align="center">
-<img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fnobuyoshi.red">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Forum%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fforum.nobuyoshi.red">
 <img alt="Website" src="https://img.shields.io/website?label=Nobuyoshi%20Hostings%20Website%20Status&logo=Statuspage&style=for-the-badge&url=https%3A%2F%2Fhost.nobuyoshi.red">
 </p>
