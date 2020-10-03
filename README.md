@@ -55,7 +55,7 @@
 <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
-<h4 align="center">OS:</h4>
+<h4 align="center">Operating Systems:</h4>
 <p align="center">
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
