@@ -1,6 +1,6 @@
-<h1 align="center">[💻] >_ THE MIO.js</h1>
+<h1 align="center">[💻] >_ Akwa</h1>
 
-<p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/3.gif" style="border-radius: 75%;"></a></p>
+<p align="center"><a><img src="https://forum.nobuyoshi.red/members/avatars/2.gif" style="border-radius: 75%;"></a></p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=THEMIODEV&color=blueviolet&style=flat-square">
