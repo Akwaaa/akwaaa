@@ -46,9 +46,10 @@
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/firefox/firefox-plain.svg" alt="firefox" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 </p>
 
