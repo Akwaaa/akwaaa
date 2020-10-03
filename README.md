@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on projects related to [Nobuyoshi](https://github.com/TeamNobuyoshi) and [StonksPanel](https://github.com/StonksPanel)
 - 🌱 I’m currently learning **NodeJS** and *expandiiing* my web-developing knowledge.
 - ✨ You can visit **[Nobuyoshi Forum](https://forum.nobuyoshi.red)** and **[Nobuyoshi Hostings](https://host.nobuyoshi.red)** here.
-- 🎏 Project ***#V4NTA*** is incoming... (Soon
+- 🎏 Project ***#V4NTA*** is incoming... (Soon™)
 
 <h3 align="center">[📚] Tools, Languages and OS</h3>
 
